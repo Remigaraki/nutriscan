@@ -1,0 +1,41 @@
+{
+  "nutrition": {
+    "calories": 250,
+    "total_fat_g": 9.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 470,
+    "total_carbohydrate_g": 37.0,
+    "dietary_fiber_g": 4.0,
+    "total_sugars_g": 12.0,
+    "added_sugars_g": 10.0,
+    "protein_g": 5.0,
+    "vitamin_d_mcg": 2.0,
+    "calcium_mg": 260,
+    "iron_mg": 8.0,
+    "potassium_mg": 235
+  },
+  "allergens": [
+    "milk",
+    "wheat",
+    "soy"
+  ],
+  "ingredients": [
+    "whole grain oats",
+    "sugar",
+    "oat bran",
+    "modified corn starch",
+    "salt",
+    "calcium carbonate",
+    "niacinamide",
+    "zinc and iron",
+    "vitamin B6",
+    "vitamin B2",
+    "vitamin B1",
+    "vitamin A",
+    "folic acid",
+    "vitamin B12",
+    "vitamin D3"
+  ]
+}

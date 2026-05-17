@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(wsl -d Ubuntu -e bash -c \"cd /mnt/c/Users/Drilon/nutriscan_code && env/bin/python3.14 -m pytest test_router.py -v 2>&1\")"
+    ]
+  }
+}
